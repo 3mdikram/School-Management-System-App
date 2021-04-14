@@ -41,6 +41,7 @@ It uses Firebase FireStore as Database and Firebase Storage.
 ## Database
 
 Database structure snapshot are [here](https://github.com/3mdikram/School-Management-System-App/tree/main/DB%20Structure)
+
 A full database documentation will be created soon..
 
 ## Server.dart 
