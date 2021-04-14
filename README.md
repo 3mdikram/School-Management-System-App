@@ -2,7 +2,7 @@
  
 ### State Management: [Provider](https://pub.dev/packages/provider) + [Get_it](https://pub.dev/packages/get_it)
 
-### MVVM(Model-View-(View)Model) Architecture
+### MVM(Model-View-Model) Architecture
 
 ### Note: This app is not fully developed, it still has a lot of bugs and I'm still working on it (For now all the login data for parent, teacher and student are added manually in firestore)
 
