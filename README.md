@@ -9,11 +9,11 @@
 
 ### Note: This app is not fully developed, it still has a lot of bugs and I'm still working on it (For now all the login data for parent, teacher and student are added manually in firestore)
 
-### [Web Portal](https://github.com/ketanchoyal/Our-E-School-Web-Portal) is under development.
+### [Web Portal](https://github.com/3mdikram/School-Management-System-App) is under development.
 
 #### There are backend firebase functions too written in Typescript for some automation and some functions to make them work with web based project(future proof)
 
-Our E School is the app build for iOS and Android using Flutter.
+ School Management System is the app build for iOS and Android using Flutter.
 
 It uses Firebase FireStore as Database and Firebase Storage.
 
@@ -37,14 +37,13 @@ It uses Firebase FireStore as Database and Firebase Storage.
 
 ## Screenshots
 
-<img src="https://github.com/ketanchoyal/Academic-Connect/raw/master/screenshots/Screenshot_1.png"/>
+![Screenshot_1](https://user-images.githubusercontent.com/54524364/114696580-6f8b5b80-9d3a-11eb-8e7c-f0e402438285.png)
 
-<img src="https://github.com/ketanchoyal/Academic-Connect/raw/master/screenshots/Screenshot_2.png"/>
+![Screenshot_2](https://user-images.githubusercontent.com/54524364/114696618-7ade8700-9d3a-11eb-9ee1-9d903c55f595.png)
 
 ## Database
 
-Database structure snapshot are [here](https://github.com/ketanchoyal/Academic-Connect/raw/master/DB%20Structure).
-
+Database structure snapshot are [here]https://github.com/3mdikram/School-Management-System-App/tree/main/DB%20Structure
 A full database documentation will be created soon..
 
 ## Server.dart 
