@@ -31,13 +31,6 @@ It uses Firebase FireStore as Database and Firebase Storage.
 | ✔ | ✔ | Forget Password
 | ✔ |  | TimeTable
 ### and many more......
-
-## Screenshots
-
-![Screenshot_1](https://user-images.githubusercontent.com/54524364/114696580-6f8b5b80-9d3a-11eb-8e7c-f0e402438285.png)
-
-![Screenshot_2](https://user-images.githubusercontent.com/54524364/114696618-7ade8700-9d3a-11eb-9ee1-9d903c55f595.png)
-
 ## Database
 
 Database structure snapshot are [here](https://github.com/3mdikram/School-Management-System-App/tree/main/DB%20Structure)
